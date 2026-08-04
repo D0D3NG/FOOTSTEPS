@@ -13,7 +13,8 @@ This project was created to practice building an interactive program using loops
 ## Gameplay 
 
 
-https://github.com/user-attachments/assets/2ac743f5-ffe1-4f83-83c6-67c3fdb6da6b
+
+https://github.com/user-attachments/assets/d47e26b6-dc67-4536-a76f-8d6201eb558a
 
 
 
