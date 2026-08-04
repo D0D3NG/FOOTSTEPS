@@ -12,7 +12,10 @@ This project was created to practice building an interactive program using loops
 
 ## Gameplay 
 
-https://github.com/user-attachments/assets/c4b45756-2e3c-4d46-9615-ec54e85ca715
+
+https://github.com/user-attachments/assets/2ac743f5-ffe1-4f83-83c6-67c3fdb6da6b
+
+
 
 The game begins with a simple main menu where the player can either start the game or exit.
 
